@@ -1,20 +1,27 @@
-<h1 align="center"> Hi, I'm Enes 🫡! </h1>
+<h1 align="center">Merhaba 👋 Ben Enes</h1>
+
 <p align="center">
- <İ> I am someone who is curious about technology and innovations, constantly pursues innovation, and loves writing code 🕵️‍♂️.</İ>
-    🎓 Istanbul Medipol University Computer Programming
+  💻 Yazılım & Web Geliştirme  
 </p>
 
+---
 
-### 💻 Tech Stack
-![Python](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/>
-)
-![Javascript](https://cdn.pixabay.com/photo/2024/01/31/04/37/javascript-8543231_1280.png)
+### 🚀 Kullandığım Teknolojiler
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
+</p>
 
-### ⚙️ Tools & Technologies
-![Visual Studio](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png)
-![Git](https://static.vecteezy.com/system/resources/previews/016/833/872/non_2x/github-logo-git-hub-icon-on-white-background-free-vector.jpg)
+---
 
-### 📩 Let's Connect
--E-mail: 
+### 📊 GitHub İstatistiklerim
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=enes-reb&show_icons=true&theme=tokyonight"/>
+</p>
 
-<p align="center"> 🚀 Always building, always learning!</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enes-reb&theme=tokyonight"/>
+</p>
+>
