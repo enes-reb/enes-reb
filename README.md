@@ -23,12 +23,10 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[KULLANICI_ADIN]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[KULLANICI_ADIN]&layout=compact&theme=radical)
+
 
 ---
 
 ### 📫 Bana Ulaşın
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/[https://www.linkedin.com/in/enes-co%C5%9Fkun-2a58b3324/])
-[<img src="https://img.shields.io/badge/instagram%231DA1F2.svg?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/[https://www.instagram.com/enescskn.w/])
+
